@@ -1,0 +1,15 @@
+using System.Collections.Generic;
+
+namespace BruteForceDictionary
+{
+    /// <summary>
+    /// A collection of word lists as provided by YAWL.
+    /// </summary>
+    /// <see cref="https://github.com/elasticdog/yawl"/>
+    public static partial class WordLists {
+        /// <summary>
+        /// All twentyone letter words in the YAWL collection.
+        /// </summary>
+        public static IEnumerable<string> TwentyOneLetterWords = new string[] { "acetylcholinesterases", "adrenocorticosteroids", "adrenocorticotrophins", "anthropomorphizations", "antiauthoritarianisms", "antiferromagnetically", "buckminsterfullerenes", "clinicopathologically", "compartmentalisations", "compartmentalizations", "constitutionalization", "consubstantiationists", "contemporaneousnesses", "countercountermeasure", "counterdemonstrations", "counterinterpretation", "counterproductiveness", "counterrevolutionists", "dendrochronologically", "disadvantageousnesses", "disestablishmentarian", "disindustrialisations", "disindustrializations", "disproportionableness", "dissatisfactorinesses", "echoencephalographies", "electrocardiographies", "electroencephalograms", "electroencephalograph", "electromyographically", "electroretinographies", "establishmentarianism", "extraterritorialities", "hypercholesterolaemia", "hypercholesterolemias", "hypersusceptibilities", "immunocytochemistries", "immunoelectrophoreses", "immunoelectrophoresis", "immunoelectrophoretic", "incommensurablenesses", "incommunicativenesses", "incomprehensibilities", "incomprehensivenesses", "inconsequentialnesses", "incontrovertibilities", "indistinguishableness", "institutionalisations", "institutionalizations", "intellectualistically", "interchangeablenesses", "interconvertibilities", "internationalisations", "internationalizations", "intersubstitutability", "irreprehensiblenesses", "meningoencephalitides", "microminiaturisations", "microminiaturizations", "micropalaeontologists", "misapprehensivenesses", "multidimensionalities", "neuroendocrinological", "neuroendocrinologists", "nondenominationalisms", "otorhinolaryngologies", "otorhinolaryngologist", "overcommercialization", "overintellectualizing", "palaeoanthropological", "palaeoanthropologists", "phosphoglyceraldehyde", "photolithographically", "photophosphorylations", "poluphloisboiotatotic", "procrastinativenesses", "pseudocholinesterases", "pseudohermaphroditism", "pseudosophistications", "psychoneuroimmunology", "psychopharmacological", "psychopharmacologists", "psychophysiologically", "psychotherapeutically", "representationalistic", "stereomicroscopically", "straightforwardnesses", "tetrahydrocannabinols", "transubstantiationist", "ultramicrochemistries", "ultraminiaturizations", "uncommunicativenesses", "unconscientiousnesses", "unconstitutionalities", "undemonstrativenesses", "undistinguishableness", "unexceptionablenesses", "unselfconsciousnesses", "unsophisticatednesses" };
+    }
+}

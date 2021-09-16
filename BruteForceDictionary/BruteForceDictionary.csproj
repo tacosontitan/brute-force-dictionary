@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>tacosontitan</Authors>
+    <Company>tacosontitan</Company>
+    <Product>Brute Force Dictionary</Product>
+    <Description>A collection of properties representing the entire YAWL collection of words, along with many helpful predefined subcollections.</Description>
+    <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
