@@ -1,0 +1,2 @@
+# Overview
+The brute force dictionary is a C# adaptation of Mendel Cooper's "Yet Another Word List" ([here](https://github.com/elasticdog/yawl)'s the repository for it). It was created specifically for use with solving/creating word puzzles on the [Puzzling Stack Exchange website](https://puzzling.stackexchange.com/questions). The words available will never change (e.g. no new words will be added, and no words will be removed).
